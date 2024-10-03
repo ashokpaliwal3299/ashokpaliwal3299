@@ -1,5 +1,5 @@
 <p align="center" style="background-color: black; padding: 20px; border-radius: 10px;">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Banner" width="100%">
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ashok Kumar</h1>
